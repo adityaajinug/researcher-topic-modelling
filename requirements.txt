@@ -1,0 +1,8 @@
+requests
+pandas
+python-dotenv
+gensim
+nltk
+Sastrawi
+langdetect
+tqdm
